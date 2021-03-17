@@ -1,0 +1,25 @@
+{
+    "auto-close-tag.excludedTags": [
+
+        "area",
+        "base",
+        "br",
+        "col",
+        "command",
+        "embed",
+        "hr",
+        "img",
+        "input",
+        "keygen",
+        "link",
+        "meta",
+        "param",
+        "source",
+        "track",
+        "wbr"
+    ],
+    "files.autoSave": "onWindowChange",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.wrapTabs": true,
+    "files.defaultLanguage": "\"${activeEditorLanguage}\""
+}
